@@ -37,7 +37,7 @@ Ye tool specially design kiya gaya hai:
 Install dependencies:
 
 ```bash
-pip3 install -r requirements.txt
+
 ⚙️ Installation
 git clone https://github.com/winter3aki/DomainHunter.git
 cd DomainHunter
