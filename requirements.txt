@@ -4,7 +4,7 @@
 
 Install command:
 
-       pip3 install -r requirements.txt
+       pip3 install -r requirements.txt --break-system-pakages 
 
 python3 --version
 
@@ -38,7 +38,7 @@ Kabhi-kabhi ports scan ya network calls ke liye:
 
           python3 domainhunter.py
 
-. Output Files 📁
+. Output Files 
 
 Script run hone ke baad:
 
