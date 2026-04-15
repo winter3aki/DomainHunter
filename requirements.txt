@@ -1,46 +1,46 @@
-1. Python (Required)
+# 1. Python (Required)
 
       requirements.txt
 
-Install command:
+# Install command:
 
        pip3 install -r requirements.txt --break-system-pakages 
 
-python3 --version
+# python3 --version
 
        sudo apt update
        sudo apt install python3
-2. Required Python Libraries
+# 2. Required Python Libraries
 
-Install karo:
+# Install karo:
 
         pip3 install requests
 
-Agar pip nahi hai:
+# Agar pip nahi hai:
 
        sudo apt install python3-pip
-3. Internet Connection 
+# 3. Internet Connection 
 
-Ye tool APIs use karta hai:
+# Ye tool APIs use karta hai:
 
-crt.sh
-hackertarget
+# crt.sh
+# hackertarget
 
-Isliye stable internet zaroori hai, warna subdomains nahi milenge.
+# Isliye stable internet zaroori hai, warna subdomains nahi milenge.
 
-4. Permissions (Optional but Useful)
+# 4. Permissions (Optional but Useful)
 
-Kabhi-kabhi ports scan ya network calls ke liye:
+# Kabhi-kabhi ports scan ya network calls ke liye:
 
           sudo python3 domainhunter.py
 
-5. Run Command
+# 5. Run Command
 
           python3 domainhunter.py
 
-. Output Files 
+# . Output Files 
 
-Script run hone ke baad:
+# Script run hone ke baad:
 
-all_subdomains.txt → sab collected domains
-activedomain.txt → sirf active domains
+# all_subdomains.txt → sab collected domains
+# activedomain.txt → sirf active domains
