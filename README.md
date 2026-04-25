@@ -31,7 +31,7 @@ Ye tool specially design kiya gaya hai:
 
 ## 🛠️ Requirements
 
-- Python 3.x
+- java
 - Kali Linux / Linux / Termux
 
 Install dependencies:
@@ -39,11 +39,11 @@ Install dependencies:
 ```bash
 
 ⚙️ Installation
-git clone https://github.com/winter3aki/DomainHunter.git
+git clone https://github.com/winter3aki/subdomainFinder.java git
 cd DomainHunter
-pip3 install -r requirements.txt
+install -r requirements.txt
 ▶️ Usage
-python3 domainhunter.py
+java subdomainFinder.java example.com
 
 Enter target domain:
 
@@ -59,7 +59,7 @@ activedomain.txt → Only active/live domains
 ╚███╔███╔╝██║██║ ╚████║   ██║   ███████╗██║  ██║
  ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-        ⚡ winter AKI - DomainHunter ⚡
+        ⚡ winter AKI - subdomainFinder.java  ⚡
 ⚠️ Disclaimer
 
 This tool is made for educational purposes only.
