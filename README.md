@@ -1,4 +1,4 @@
-# ⚡ DomainHunter
+# ⚡ SubdomainFinder.java 
 
 > 🔍 Advanced Subdomain Recon & Attack Surface Scanner  
 > Built for Bug Bounty Hunters & Security Researchers  
