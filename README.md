@@ -7,7 +7,7 @@
 
 ## 💀 About
 
-**DomainHunter** ek powerful reconnaissance tool hai jo multiple sources se subdomains collect karta hai, unhe clean karta hai, DNS resolve karta hai, active hosts detect karta hai, aur unpe further scanning perform karta hai.
+**SubdomainFinder.java ** ek powerful reconnaissance tool hai jo multiple sources se subdomains collect karta hai, unhe clean karta hai, DNS resolve karta hai, active hosts detect karta hai, aur unpe further scanning perform karta hai.
 
 Ye tool specially design kiya gaya hai:
 - 🐞 Bug Bounty Hunters
