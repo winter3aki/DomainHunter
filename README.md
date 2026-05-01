@@ -52,7 +52,7 @@ git clone https://github.com/winter3aki/DomainHunter.java git
 cd DomainHunter
 install -r requirements.txt
 ▶️ Usage
-java DomainHunter.java example.com
+javac DomainHunter.java example.com
 
 Enter target domain:
 
@@ -68,7 +68,7 @@ activedomain.txt → Only active/live domains
 ╚███╔███╔╝██║██║ ╚████║   ██║   ███████╗██║  ██║
  ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 
-        ⚡ winter AKI - subdomainFinder.java  ⚡
+        ⚡ winter AKI - DomainHunter.java  ⚡
 ⚠️ Disclaimer
 
 This tool is made for educational purposes only.
