@@ -1,4 +1,4 @@
-# ⚡ SubdomainFinder.java 
+# ⚡ DomainHunter.java 
 
 > 🔍 Advanced Subdomain Recon & Attack Surface Scanner  
 > Built for Bug Bounty Hunters & Security Researchers  
@@ -7,7 +7,7 @@
 
 ## 💀 About
 
-**SubdomainFinder.java ** ek powerful reconnaissance tool hai jo multiple sources se subdomains collect karta hai, unhe clean karta hai, DNS resolve karta hai, active hosts detect karta hai, aur unpe further scanning perform karta hai.
+**DomainHunter.java ** ek powerful reconnaissance tool hai jo multiple sources se subdomains collect karta hai, unhe clean karta hai, DNS resolve karta hai, active hosts detect karta hai, aur unpe further scanning perform karta hai.
 
 Ye tool specially design kiya gaya hai:
 - 🐞 Bug Bounty Hunters
@@ -31,7 +31,16 @@ Ye tool specially design kiya gaya hai:
 
 ## 🛠️ Requirements
 
-- java
+# DomainHunter
+
+## Requirements
+- Java 11 or higher
+
+## Compile
+javac DomainHunter.java
+
+## Run
+java DomainHunter example.com
 - Kali Linux / Linux / Termux
 
 Install dependencies:
@@ -39,11 +48,11 @@ Install dependencies:
 ```bash
 
 ⚙️ Installation
-git clone https://github.com/winter3aki/subdomainFinder.java git
+git clone https://github.com/winter3aki/DomainHunter.java git
 cd DomainHunter
 install -r requirements.txt
 ▶️ Usage
-java subdomainFinder.java example.com
+java DomainHunter.java example.com
 
 Enter target domain:
 
